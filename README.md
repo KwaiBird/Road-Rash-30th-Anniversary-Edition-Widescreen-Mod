@@ -22,6 +22,8 @@ You must own and install the game separately.
 
 **If a `ddraw.dll` already exists, do not overwrite it without identifying it first.** This mod does not chain with other DirectDraw wrappers. Do not combine this mod with other launchers, including the old widescreen/diagnostic launcher, a 3D conversion launcher, or a translation launcher. Use normal Steam launch for this standalone version.
 
+**Do not install this mod together with [RoadRash30th-HD](https://github.com/OBLPlife/RoadRash30th-HD), an independent project by OBLPlife.** If switching between them, uninstall the previous mod first by following its removal instructions.
+
 ## What changes
 
 - Race rendering expands from 640x480 to **852x480**, adding 106 pixels of scenery on each side.
@@ -66,6 +68,12 @@ Close the game and remove **this mod's `ddraw.dll`** from the game folder. You m
 ## Build from source
 
 The release branch includes both the source code and a ready-to-use DLL. For normal installation, use the included DLL; compilation is not required. If you want to build it yourself from a checkout or extracted source archive, see [BUILDING.md](BUILDING.md).
+
+## Other mods
+
+For high-resolution rendering, ultrawide support, and additional display fixes, see [RoadRash30th-HD](https://github.com/OBLPlife/RoadRash30th-HD), an independent project by OBLPlife.
+
+This mod focuses on single-DLL widescreen support. Choose the mod that best suits your preferences; do not install both together.
 
 ## Development and verification
 
