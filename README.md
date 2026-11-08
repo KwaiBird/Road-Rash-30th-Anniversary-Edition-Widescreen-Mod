@@ -5,6 +5,7 @@ Version: 0.2.2
 An unofficial widescreen mod for **Road Rash: 30th Anniversary Edition on Steam (Windows)**. It expands the horizontal view in single-player races while keeping the original vertical view and object proportions.
 
 https://store.steampowered.com/app/2448570/
+
 You must own and install the game separately.
 
 ## Install
